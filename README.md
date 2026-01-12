@@ -1,4 +1,5 @@
-# AI-Models-Read-Me# Automation Models Catalog
+# AI-Models-Read-Me
+Automation Models Catalog
 
 Production-ready automation models built with **n8n** and deployed via **GitHub**.  
 These workflows are designed to plug directly into your existing stack so teams can move faster without rebuilding from scratch.
